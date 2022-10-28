@@ -1,0 +1,29 @@
+ .header{
+    display: flex;
+ }
+ .header .header-bg{
+
+ }
+ .container {
+    display:flex;
+    flex-direction:row;
+    gap:30px;
+    padding: 40px;
+    
+ }
+.header-nav ul{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    margin: 30px 47px 43px 501px;
+    padding: 0;
+    gap: 32px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.container .header-BG{
+
+}
+.header img{
+    padding: 40px;
+}
